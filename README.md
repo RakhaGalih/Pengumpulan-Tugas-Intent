@@ -2,10 +2,9 @@
 ## Custom application
 ### Rakha Galih Nugraha S / XI RPL 3 / 31
 ![Screenshot_20200810-193003_Take Care )](https://user-images.githubusercontent.com/54633534/89784241-8988f480-db42-11ea-9754-a5421cf95b6e.jpg)
+![Screenshot_20200810-193008_Take Care )](https://user-images.githubusercontent.com/54633534/89784233-85f56d80-db42-11ea-98f9-1673192312c9.jpg)
 ![Screenshot_20200810-193035_Take Care )](https://user-images.githubusercontent.com/54633534/89784204-783fe800-db42-11ea-9957-a9a15e3590ca.jpg)
 ![Screenshot_20200810-193013_Take Care )](https://user-images.githubusercontent.com/54633534/89784229-842baa00-db42-11ea-91ef-290728274403.jpg)
-![Screenshot_20200810-193008_Take Care )](https://user-images.githubusercontent.com/54633534/89784233-85f56d80-db42-11ea-98f9-1673192312c9.jpg)
-![Screenshot_20200810-193003_Take Care )](https://user-images.githubusercontent.com/54633534/89784241-8988f480-db42-11ea-9754-a5421cf95b6e.jpg)
 
 
 
