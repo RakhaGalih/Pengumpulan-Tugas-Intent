@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Take Care :)</string>
+    <string name="menerapkan_pola_hidup_sehat">menerapkan pola hidup sehat</string>
+    <string name="selalu_pakai_masker">selalu pakai masker</string>
+    <string name="rajin_cuci_tangan">rajin cuci tangan</string>
+    <string name="menjaga_diri">menjaga diri</string>
+    <string name="jaga1">1. Jaga jarak bila keluar</string>
+    <string name="jaga2">2. Tetap di rumah</string>
+    <string name="tangan1">1. Basahi tangan dengan air</string>
+    <string name="tangan2">2. Tuang sabun pada tangan secukupnya untuk menutupi semua permukaan tangan</string>
+    <string name="tangan3">3. Gosok telapak tanga yang satu dengna telapak tangan yang lainnya</string>
+    <string name="tangan4">4. gosok punggung tangan dan sela jari</string>
+    <string name="tangan5">5. Gosok punggung jari ke telapak tangan dengan posisi jari saling bertautan</string>
+    <string name="tangan6">6. Ganggam dan basuh ibu jari dengan posisi memutar</string>
+    <string name="tangan7">7. Gosok bagian ujung jari ke telapak tangan agar bagian kuku terkena sabun</string>
+    <string name="tangan8">8. Gosok tangan yang bersabun dengan air mengalir</string>
+    <string name="tangan9">9. Keringkan tangan dengan lap sekali pakai</string>
+    <string name="masker1">1. Pastikan untuk selalu mencuci tangan dengan sabun sebelum memasang masker</string>
+    <string name="masker2">2. Cari sisi luar masker. Jika maskermu memiliki dua warna berbeda (umumnya hijau dan putih), sisi luar masker adalah yang berwarna hijau. Maka sisi putihlah yang menempel langsung dengan kulit, sementara lapisan hijau menghadap ke luar</string>
+    <string name="masker3">3. Tentukan sisi atas masker, biasanya ditandai dengan adanya garis kawat hidung</string>
+    <string name="masker4">4. Untuk masker dengan menggunakan tali: posisikan kawat hidung di atas hidung dengan jari, lalu ikat kedua sisi tali di bagian atas padakepala bagian atas. Setelah masker sudah menggantug, tarik masker ke bawah untuk bisa menutup mulut hingga dagu. Ikat tali bagian bawahnya di tengkuk atau belakang leher </string>
+    <string name="masker5">5. Untuk  masker karet: kamu hanya perlu mengaitkan tali karet di belakang telinga. Stetlah masker menempel dengan aman di wajah, cubit bagian kawatnya untuk mengikuti lekuk hidung anda agar masker lebih tertutup rapat. Dan panjangkan lekukan lekukan masker ke bawah untuk menutupi semua bagian yang perlu ditutup yaitu hidung, mulut serta dagu</string>
+    <string name="cara1">Cara menggunakan masker:</string>
+    <string name="cara2">Tips dari saya:</string>
+    <string name="tips1">1. Tutupilah hidung , mulut dan dagu menggunakan masker</string>
+    <string name="tips2">2. Jika ingin melepas, peganglah bagian tali, jangan permukaannya</string>
+    <string name="tips3">3. Jangan mencuci masker bedah</string>
+    <string name="tips4">4. Pilihlah ukuran masker yang sesuai agar tidak sesak</string>
+    <string name="fruit1">1. Makanlah makanan yang banyak mengandung serat seperti sayuran atau buah-buahan</string>
+    <string name="fruit2">2. Rajinlah berolahraga dan terkena sinar matahari</string>
+    <string name="fruit3">3. Makanlah supelmen yang mendukung sistem imun tubuh</string>
+    <string name="take_care">Take Care :)</string>
+</resources>
